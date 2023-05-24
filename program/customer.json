@@ -1,0 +1,47 @@
+{
+    "7654321": {
+        "customer_name": "Tanya Soto",
+        "customer_address": "3377 Boone Crockett Lane",
+        "invoice_date": "2023-04-05"
+    },
+    "7654322": {
+        "customer_name": "Daniela Park",
+        "customer_address": "2453 Renwick Drive",
+        "invoice_date": "2023-04-06"
+    },
+    "7654323": {
+        "customer_name": "James Bender",
+        "customer_address": "2740 Lynch Street",
+        "invoice_date": "2023-04-07"
+    },
+    "7654324": {
+        "customer_name": "Homer Watts",
+        "customer_address": "3890 August Lane",
+        "invoice_date": "2023-04-08"
+    },
+    "7654325": {
+        "customer_name": "Barney Mata",
+        "customer_address": "2571 Smith Street",
+        "invoice_date": "2023-04-11"
+    },
+    "7654326": {
+        "customer_name": "Rhodri Chandler",
+        "customer_address": "306 Trymore Road",
+        "invoice_date": "2023-04-13"
+    },
+    "7654327": {
+        "customer_name": "Marcus Blake",
+        "customer_address": "2022 Farland Street",
+        "invoice_date": "2023-04-14"
+    },
+    "7654328": {
+        "customer_name": "Chelsey Roach",
+        "customer_address": "2335 Brentwood Drive",
+        "invoice_date": "2023-04-15"
+    },
+    "7654329": {
+        "customer_name": "Hussain Lyons",
+        "customer_address": "4883 Caldwell Road",
+        "invoice_date": "2023-04-17"
+    }
+}

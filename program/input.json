@@ -1,0 +1,281 @@
+{
+    "number_of_orders": 10,
+    "orders": [
+        {
+            "staff_number": "123456",
+            "items": [
+                {
+                    "item_number": 4018,
+                    "item_name": "Pineapple",
+                    "quantity": 3,
+                    "cost": 1.99
+                },
+                {
+                    "item_number": 5017,
+                    "item_name": "Watermelon",
+                    "quantity": 4,
+                    "cost": 3.99
+                }
+            ],
+            "discounts": {
+                "VIP": true,
+                "VIPDay95": 0.01,
+                "VIPDay123": 0.05
+            },
+            "customer_number": "7654321",
+            "order_number": "AA-000001"
+        },
+        {
+            "staff_number": "223456",
+            "items": [
+                {
+                    "item_number": 6014,
+                    "item_name": "Strawberry",
+                    "quantity": 3,
+                    "cost": 1.99
+                },
+                {
+                    "item_number": 6084,
+                    "item_name": "Blueberry",
+                    "quantity": 2,
+                    "cost": 3.99
+                }
+            ],
+            "discounts": {
+                "VIP": false,
+                "VIPDay95": 0.0,
+                "VIPDay123": 0.0
+            },
+            "customer_number": "7654322",
+            "order_number": "AA-000002"
+        },
+        {
+            "staff_number": "351661",
+            "items": [
+                {
+                    "item_number": 1121,
+                    "item_name": "MetaSpeed Shampoo",
+                    "quantity": 8,
+                    "cost": 27.0
+                },
+                {
+                    "item_number": 7200,
+                    "item_name": "Papaya",
+                    "quantity": 32,
+                    "cost": 3.99
+                }
+            ],
+            "discounts": {
+                "VIP": true,
+                "VIPDay95": 0.01,
+                "VIPDay123": 0.0
+            },
+            "customer_number": "7654323",
+            "order_number": "AA-000003"
+        },
+        {
+            "staff_number": "456321",
+            "items": [
+                {
+                    "item_number": 7400,
+                    "item_name": "Peach",
+                    "quantity": 43,
+                    "cost": 1.99
+                },
+                {
+                    "item_number": 7600,
+                    "item_name": "Pear",
+                    "quantity": 12,
+                    "cost": 3.99
+                }
+            ],
+            "discounts": {
+                "VIP": false,
+                "VIPDay95": 0.0,
+                "VIPDay123": 0.0
+            },
+            "customer_number": "7654324",
+            "order_number": "AA-000004"
+        },
+        {
+            "staff_number": "534569",
+            "items": [
+                {
+                    "item_number": 7800,
+                    "item_name": "Grape",
+                    "quantity": 3,
+                    "cost": 1.99
+                },
+                {
+                    "item_number": 7900,
+                    "item_name": "Cherry",
+                    "quantity": 2,
+                    "cost": 3.99
+                }
+            ],
+            "discounts": {
+                "VIP": false,
+                "VIPDay95": 0.0,
+                "VIPDay123": 0.0
+            },
+            "customer_number": "7654325",
+            "order_number": "AA-000005"
+        },
+        {
+            "staff_number": "633456",
+            "items": [
+                {
+                    "item_number": 8000,
+                    "item_name": "Raspberry",
+                    "quantity": 6,
+                    "cost": 1.99
+                },
+                {
+                    "item_number": 8100,
+                    "item_name": "Blackberry",
+                    "quantity": 2,
+                    "cost": 3.99
+                }
+            ],
+            "discounts": {
+                "VIP": false,
+                "VIPDay95": 0.0,
+                "VIPDay123": 0.0
+            },
+            "customer_number": "7654326",
+            "order_number": "AA-000006"
+        },
+        {
+            "staff_number": "734567",
+            "items": [
+                {
+                    "item_number": 8300,
+                    "item_name": "Lime",
+                    "quantity": 2,
+                    "cost": 3.99
+                },
+                {
+                    "item_number": 4018,
+                    "item_name": "KF-95 Anti-Cpvid Mask",
+                    "quantity": 6,
+                    "cost": 280.0
+                }
+            ],
+            "discounts": {
+                "VIP": false,
+                "VIPDay95": 0.0,
+                "VIPDay123": 0.0
+            },
+            "customer_number": "7654327",
+            "order_number": "AA-000007"
+        },
+        {
+            "staff_number": "878987",
+            "items": [
+                {
+                    "item_number": 8400,
+                    "item_name": "Orange",
+                    "quantity": 30,
+                    "cost": 1.99
+                },
+                {
+                    "item_number": 8500,
+                    "item_name": "Banana",
+                    "quantity": 1,
+                    "cost": 3.99
+                }
+            ],
+            "discounts": {
+                "VIP": false,
+                "VIPDay95": 0.0,
+                "VIPDay123": 0.0
+            },
+            "customer_number": "7654328",
+            "order_number": "AA-000008"
+        },
+        {
+            "staff_number": "999999",
+            "items": [
+                {
+                    "item_number": 8200,
+                    "item_name": "Lemon",
+                    "quantity": 3,
+                    "cost": 1.99
+                },
+                {
+                    "item_number": 8300,
+                    "item_name": "Lime",
+                    "quantity": 2,
+                    "cost": 3.99
+                },
+                {
+                    "item_number": 8600,
+                    "item_name": "Apple",
+                    "quantity": 3,
+                    "cost": 1.99
+                },
+                {
+                    "item_number": 8700,
+                    "item_name": "Pineapple",
+                    "quantity": 2,
+                    "cost": 3.99
+                },
+                {
+                    "item_number": 6084,
+                    "item_name": "Blueberry",
+                    "quantity": 200,
+                    "cost": 3.99
+                },
+                {
+                    "item_number": 8000,
+                    "item_name": "Raspberry",
+                    "quantity": 3,
+                    "cost": 1.99
+                },
+                {
+                    "item_number": 1121,
+                    "item_name": "MetaSpeed Shampoo",
+                    "quantity": 2,
+                    "cost": 27.0
+                },
+                {
+                    "item_number": 2134,
+                    "item_name": "BTM Baby Powder",
+                    "quantity": 5,
+                    "cost": 198.0
+                },
+                {
+                    "item_number": 3019,
+                    "item_name": "Covid-19 Test kit",
+                    "quantity": 8,
+                    "cost": 52.9
+                }
+            ],
+            "discounts": {
+                "VIP": true,
+                "VIPDay95": 0.0,
+                "VIPDay123": 0.04
+            },
+            "customer_number": "7654329",
+            "order_number": "AA-000009"
+        },
+        {
+            "staff_number": "999999",
+            "items": [
+                {
+                    "item_number": 3023,
+                    "item_name": "Covid-19 Test kit",
+                    "quantity": 8,
+                    "cost": 52.9
+                }
+            ],
+            "discounts": {
+                "VIP": true,
+                "VIPDay95": 0.0,
+                "VIPDay123": 0.04
+            },
+            "customer_number": "7654329",
+            "order_number": "AA-000010"
+        }
+    ]
+}
